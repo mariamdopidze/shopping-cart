@@ -1,0 +1,135 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    max-width: 390px;
+    max-height: 844px;
+    gap: 30px;
+    margin-top: 60px;
+    position: relative;
+   
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+.stl h1{
+   
+    font-family: "Raleway";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    margin-right: 100px;
+    margin-top: 20px;
+    
+
+}
+.text {
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    margin-top: 5px;
+}
+.size{
+    margin-top: -10px;
+    width: 20px;
+    height: 14px;
+    font-weight: "Raleway";
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+}
+button{
+    margin-top: 50px;
+    width: 120px ;
+    height: 20px;
+    background-color:#D94141;
+    color: white;
+    border-radius: 48px;
+    margin-left: -50px;
+    border-color: #D94141;
+}
+.logo img{
+    display: flex;
+    gap: 0;
+    width: 76px;
+   
+
+}
+.cost{
+    width: 54px;
+    height: 14px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    margin-left: -80px;
+}
+.line{
+    width: 390px;
+    height: 1px;
+    background-color: #0000001A;
+    margin-left: -315px;
+    margin-top:95px;
+}
+.click {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    
+}
+.add p{
+    position: absolute;
+    background-color:#00000008 ;
+    width: 380px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    left:10px;
+    margin-top: 30px;
+    color: #00000080;
+
+}
+.bag {
+ position: relative;
+ top: -75px;
+}
+.click{
+    position: absolute;
+    margin-left: 325px;
+    margin-top: -80px;
+}
+.shopping{
+    width: 300px;
+    height: 24px;
+   margin-top: -80px;
+   font-family: 'Raleway';
+   
+   font-size: 30px;
+   line-height: 34px;
+   margin-left: 5px;
+    
+}
+.top{
+   position: relative;
+   top: 50px;
+   left: 30px;
+    
+}
+.increment {
+    position: relative;
+    top: 450px;
+    left: -70px;
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+  
+  
+
+}
+.fisrt button{
+    position: relative;
+    top: 10px;
+   
+}
